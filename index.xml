@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yusuf Al Afid</title>
+    <link>http://127.0.0.1/</link>
+    <description>Recent content on Yusuf Al Afid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://127.0.0.1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>http://127.0.0.1/about/</link>
+      <pubDate>Wed, 08 Feb 2023 20:48:12 +0700</pubDate>
+      
+      <guid>http://127.0.0.1/about/</guid>
+      <description>
+Work Experience - Cloud Engineer at PT. Boer Technology | 2019 - 2022 - System Engineer at PT. Media Telekomunikasi Mandiri | 2022 - Now Daily Activites Fulltime System Engineer who helps network &amp;amp; security teams to automate things. Love to riding on my bike. Retired gamer, or try to :). </description>
+    </item>
+    
+  </channel>
+</rss>
