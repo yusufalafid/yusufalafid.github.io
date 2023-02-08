@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://127.0.0.1/about/</loc>
+    <loc>https://www.uucp.in/about/</loc>
     <lastmod>2023-02-08T20:48:12+07:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/categories/</loc>
+    <loc>https://www.uucp.in/categories/</loc>
   </url><url>
-    <loc>http://127.0.0.1/series/</loc>
+    <loc>https://www.uucp.in/series/</loc>
   </url><url>
-    <loc>http://127.0.0.1/tags/</loc>
+    <loc>https://www.uucp.in/tags/</loc>
   </url><url>
-    <loc>http://127.0.0.1/</loc>
+    <loc>https://www.uucp.in/</loc>
   </url>
 </urlset>
